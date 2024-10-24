@@ -1,0 +1,20 @@
+i dont know html i just know like 5 commands in html and i use it to build the entire website
+
+anyways:
+
+// sets the style for the whole page.
+<style>
+    a:link {
+        color: white;
+    }
+
+    a:visited {
+        color: white;
+    }
+</style>
+
+//sets the icon for the tab i think
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+
+//background color
+<body style="background-color:black;">
